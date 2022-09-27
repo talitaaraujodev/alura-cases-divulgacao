@@ -1,4 +1,4 @@
-# Projeto realizado durante o curso "Next.js: explorando o framework" da Alura
+# Alura Cases Divulgação
 
 ## :wave: Sobre
 
@@ -11,3 +11,7 @@ O projeto **Alura Cases Divulgação** foi criado durante o curso **"Next.js: ex
 - Alteração do head;
 - Busca de dados estáticos utilizando o getStaticProps();
 - Publicação na vercel;
+
+---
+
+By Talita Araujo :wink::purple_heart:
